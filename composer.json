@@ -1,0 +1,16 @@
+{
+    "name": "jc-group/www",
+    "authors": [
+        {
+            "name": "Ihor Drozd",
+            "email": "ihordrozd@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
